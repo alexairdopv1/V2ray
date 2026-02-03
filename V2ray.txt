@@ -1,41 +1,35 @@
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&fp=chrome#@VPN_HQ%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D9%88%D8%B5%D9%84%20%D8%A8%D8%A7%20%E2%9A%A1
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20vpn_Sra%40
 
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&fp=chrome#@VPN_HQ%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D9%88%D8%B5%D9%84%20%D8%A8%D8%A7%20%E2%9A%A1-1
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20vpn_Sra%40
 
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&path=%2Fassignment&host=www.gossipglove.com&sni=www.gossipglove.com&fp=chrome#@VPN_HQ%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20.%20%D9%85%D9%88%D8%AF%D9%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20vpn_Sra%40
 
-vmess://eyJ2IjoiMiIsInBzIjoi2LPZhNmB2KfYqiDYrNmH2KfZhdmHINmI2KfZhtiv2KcgOiB2cG5fU3JhQC0xIiwiYWRkIjoiMjAuMTkzLjE1My4xOSIsInBvcnQiOiIxNTgzNCIsImlkIjoiMzlhOGMzNzQtNzZiMS00ZTkwLWFiODUtODVjZDlhNDJkZWQyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiJ9
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@www.fastly.com:80?path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=&encryption=none&host=mitivpn3.global.ssl.fastly.net&type=ws#
+
+vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@myserviran.serviran.workers.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=myserviran.serviran.workers.dev&fp=randomized&type=ws&sni=myserviran.serviran.workers.dev#
+
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@188.114.96.4:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=tls&encryption=none&host=s1.mitivpn--1--0-1-0--1-1-0--1-0-1-0-1--0-1--0---1--0.workers.dev&fp=random&type=ws#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20vpn_Sra%40
+
+vless://20df8c30-c07a-494e-b83d-4af21ee57788@perl.org:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=lexeu.global.ssl.fastly.net&type=ws#%40VPN_HQ%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
+
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f3.springpaatogh8.store:2087?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=pcgame.sorza.ir#%40VPN_HQ%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
+
+vless://09cdd7bd-0a0c-44c9-9854-b657b335e0bb@104.21.55.47:2053?security=tls&encryption=none&host=api18.diiginet.ir&fp=chrome&type=ws&sni=api18.diiginet.ir#%40VPN_HQ%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
+
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2Fassignment&host=www.multiplydose.com&fp=chrome#@VPN_HQ%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D9%88%D8%B5%D9%84%20%D8%A8%D8%A7%20%E2%9A%A1
+
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2Fassignment&host=www.multiplydose.com&fp=chrome#@VPN_HQ%20%D9%87%D9%85%DB%8C%D8%B4%D9%87%20%D9%88%D8%B5%D9%84%20%D8%A8%D8%A7%20%E2%9A%A1-1
+
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com&fp=chrome#@VPN_HQ%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20.%20%D9%85%D9%88%D8%AF%D9%85
+
+vmess://eyJ2IjoiMiIsInBzIjoi2LPZh9mE2KfYp9uMINmH2YTYsdin2KfZhiA6IHZwbl9TcmFA LTEiLCJhZGQiOiIyMC4xOTMuMTUzLjE5IiwicG9ydCI6IjE1ODM0IiwiaWQiOiIzOWE4YzM3NC03NmIxLTRlOTAtYWI4NS04NWNkOWE0MmRlZDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIifQ==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplODMzNTdlYTMxYjA5OGJkQDE0MS45NS4xMDUuNjoxMTIwMQ==#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20:%20vpn_Sra@
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb09ANTcuMTI5LjE0MC44ODo4Mzg4#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-25
 
-vless://95e118b4-4352-4218-8493-f20cc7fc467a@46.246.98.74:443?security=reality&sni=learn.microsoft.com&fp=firefox&pbk=nBJICh1KzfMblaXtSxpTiPIHGg2TKP5PF8nq-89Q6jg&sid=6ed3324b&type=tcp&encryption=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-19
 
-vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?security=tls&sni=pandura.lat&fp=firefox&type=ws&path=%2F&host=pandura.lat&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-2
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE4NDo4MDgw#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-6
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBxQDU0LjM2LjE3NC4xNDA6NDQz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-10
 
-vmess://eyJ2IjoiMiIsInBzIjoi2KfZhNi52KfZh9mIINmH2KfZhNiv2YcgOiBAY3VzdG9tdjJyYXktMjgiLCJhZGQiOiIyMC4xOTMuMTUzLjE5IiwicG9ydCI6IjE1ODM0IiwiaWQiOiIzOWE4YzM3NC03NmIxLTRlOTAtYWI4NS04NWNkOWE0MmRlZDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIn0=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBxQDU0LjM2LjE3NC4xMzQ6NDQz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-26
 
-vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?security=tls&sni=cf.elipii-bot.shop&fp=chrome&type=xhttp&path=%2Felipii-bot&host=cf.elipii-bot.shop&encryption=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-30
-
-vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&encryption=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBxQDU0LjM2LjE3NC4xNDA6NDQz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-16
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBxQDU0LjM2LjE3NC4xNDA6NDQz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-21
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBxQDU0LjM2LjE3NC4xMzQ6NDQz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-8
-
-vmess://eyJ2IjoiMiIsInBzIjoi2KfZhNi52KfZh9mIINmH2KfZhNiv2YcgOiBAY3VzdG9tdjJyYXktMjciLCJhZGQiOiIyMC4xOTMuMTUzLjE5IiwicG9ydCI6IjE1ODM0IiwiaWQiOiIzOWE4YzM3NC03NmIxLTRlOTAtYWI4NS04NWNkOWE0MmRlZDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIn0=
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?type=grpc&encryption=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-14
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?type=grpc&encryption=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-24
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?type=grpc&encryption=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1:%20@customv2ray-9
